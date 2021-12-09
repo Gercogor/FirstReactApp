@@ -1,0 +1,64 @@
+body {
+    max-width: 1920px;
+    background-color: black;
+}
+
+header {
+    max-width: 1216px;
+    height: 160px;
+    margin: 0 auto;
+}
+
+.header-up {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.header-left {
+    display: flex;
+    max-width: 373px;
+    height: 46px;
+    justify-content: space-between;
+}
+
+.header-right {
+    width: 250px;
+}
+
+.header-down {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav {
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.phone {
+    display: block;
+    max-width: 156px;
+}
+
+.mesen {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.mail {
+    display: block;
+}
+
+.main-head {
+    margin: 0 auto;
+    width: 1920px;
+    height: 700px;
+    background-image: url("pic/main/mainHead/infoBG.png");
+}
