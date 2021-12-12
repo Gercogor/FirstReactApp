@@ -1,0 +1,21 @@
+.header-phone {
+    display: flex;
+    justify-content: space-between;
+}
+
+.phone {
+    display: "";
+    width: 156px;
+    font-size: 15px;
+    justify-content: space-between;
+}
+
+.mesen {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+    font-size: 12px;
+    text-decoration: none;
+}

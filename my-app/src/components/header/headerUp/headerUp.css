@@ -1,0 +1,8 @@
+.header-up {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: black;
+    width: 1216px;
+    margin:  0 auto;
+}

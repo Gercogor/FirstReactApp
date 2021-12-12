@@ -1,0 +1,6 @@
+.header-left {
+    display: flex;
+    max-width: 373px;
+    height: 46px;
+    justify-content: space-between;
+}
